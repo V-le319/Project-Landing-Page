@@ -1,5 +1,5 @@
 # Project-Landing-Page
- The Odin Project - Foundation Course
+ [The Odin Project - Foundation Course]
 This project involves building a landing page based on a design that includes images, color schemes, and fonts. The goal is to create a clean and responsive landing page with 4 main sections and a footer.
 
 Project Overview
